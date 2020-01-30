@@ -1,2 +1,9 @@
-# Deep_learning_projects
-Projects done with various methods in deep learning
+# Deep Learning 
+
+This repository consists of three different deep learning projects:
+
+- Recurrent neural networks used for text prediction
+
+- Convolutional neural network for cancer detection in images
+
+- Neural network for style transer
