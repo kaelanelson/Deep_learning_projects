@@ -1,6 +1,6 @@
 # Deep Learning 
 
-This repository consists of three different deep learning projects:
+This repository consists of three different deep learning projects completed in the class, Introduction to Deep Learning \(taken in 2018\):
 
 - Recurrent neural networks used for text prediction
 
